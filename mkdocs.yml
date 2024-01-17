@@ -1,0 +1,6 @@
+site_name: ForgotDream's Blog
+theme: material
+
+nav:
+  - Home: index.md
+  - About: about.md
