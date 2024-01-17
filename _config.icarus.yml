@@ -165,9 +165,9 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: disqus
-    # Disqus shortname
-    shortname: ''
+    type: utterances
+    repo: ForgotDream/forgotdream.github.io
+    issue_term: pathname
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 # donates:
@@ -235,11 +235,11 @@ widgets:
         # Author's current location
         location: Gensokyo
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/avatar.jpg
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: mr.zyz@outlook.com
+        # gravatar: mr.zyz@outlook.com
         # URL or path for the follow button
         follow_link: https://github.com/ForgotDream
         # Links to be shown on the bottom of the profile widget
@@ -277,8 +277,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: https://hexo.io
-            Bulma: https://bulma.io
+          Google: https://www.google.com
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
