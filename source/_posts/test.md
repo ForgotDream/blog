@@ -10,8 +10,16 @@ mathjax: true
 
 ```cpp
 #include <iostream>
+
+<=
+
+>=
+
+==
 ```
 
-$$
-e ^ {i \pi} + 1 = 0
-$$
+$$ e ^ {i \pi} + 1 = 0 $$
+
+\\(ax^2+bx+c=0\\)
+
+$F = ma$

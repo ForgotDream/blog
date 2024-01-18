@@ -104,3 +104,6 @@ deploy:
   type: git
   repository: https://github.com/ForgotDream/forgotdream.github.io
   branch: main
+
+mathjax:
+  enabled: true
