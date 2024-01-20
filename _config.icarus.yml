@@ -166,7 +166,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: utterances
-    repo: ForgotDream/forgotdream.github.io
+    repo: ForgotDream/blog
     issue_term: pathname
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
